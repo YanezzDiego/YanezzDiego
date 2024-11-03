@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-I received my <strong>B.Sc.</strong> degree in <strong>Civil Industrial Engineering</strong> and my <strong>M.Sc.</strong> degree in <strong>Industrial Engineering</strong> from the <a href="https://www.ubiobio.cl/w/">University of Bío-Bío</a>, Chile, in 2023 and 2024, respectively. I am currently pursuing an <strong>M.Sc.</strong> degree in <strong>Computational Engineering and Intelligent Systems</strong> at the <a href="https://www.ehu.eus/es/web/master/master-ingenieria-computacional-sistemas-inteligentes">University of the Basque Country</a>, Spain.
+I received my <strong>B.Sc.</strong> degree in <strong>Civil Industrial Engineering</strong> and my <strong>M.Sc.</strong> degree in <strong>Industrial Engineering</strong> from the <a href="https://www.ubiobio.cl/w/">University of the Bío-Bío</a>, Chile, in 2023 and 2024, respectively. I am currently pursuing an <strong>M.Sc.</strong> degree in <strong>Computational Engineering and Intelligent Systems</strong> at the <a href="https://www.ehu.eus/es/web/master/master-ingenieria-computacional-sistemas-inteligentes">University of the Basque Country</a>, Spain.
 </p>
 
 **My Interests**
